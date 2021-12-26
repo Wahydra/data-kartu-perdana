@@ -1,5 +1,5 @@
 # data-kartu-perdana
-aplikasi yang dibuat menggunakan Netbeans ini digunakan untuk mendapat perbandingan data kartu perdana menggunakan metode Simple Additive Weighting untuk membandingkan dan mendapatkan hasil terbaik dari kartu perdana yang berada di area Gunungpati, Semarang.
+aplikasi yang dibuat menggunakan Netbeans ini digunakan untuk mendapat perbandingan data kartu perdana menggunakan metode Simple Additive Weighting untuk membandingkan dan mendapatkan hasil terbaik dari kartu perdana yang berada di area Gunungpati, Semarang. file ini juga berisi data yang berupa SQL yang telah di dapatkan di area Gunungpati, Semarang.
 
 
 
